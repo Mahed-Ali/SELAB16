@@ -8,7 +8,11 @@ public class log4j {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+        System.out.println("hn hn ke a");
+        System.out.println("hn hn ke a");
+        System.out.println("hn hn ke a");
+        System.out.println("hn hn ke a");
+        System.out.println("hn hn ke a");
 		//DOMConfigurator.configure("log4j.xml");
 				PropertyConfigurator.configure("log4j.properties");
 				//BasicConfigurator.configure();
